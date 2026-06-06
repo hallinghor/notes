@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Cross-checked behaviour against spec
 - Cleaned up old debug logs
+
+## 2026-06-06
+- Verified API endpoint response schema
+- Resolved deprecation warnings
+- Ran linter, applied auto-fixes
